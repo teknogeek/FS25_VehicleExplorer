@@ -15,25 +15,25 @@
 		<text name="input_vsRepair"							text="VeEx : Réparer les véhicules et les équipements" />
 		<text name="input_vsTab"							text="VeEx : Passer au véhicule suivant" />
 		<text name="input_vsTabBack"						text="VeEx : Passer au véhicule précédent" />
-		<text name="input_vsEasyTab"						text="VeEx : EasyTab" />
+		<text name="input_vsEasyTab"						text="VeEx: EasyTab" />
 		<text name="configHeadline"							text="Configuration du tri de véhicules" />
 		<text name="with"									text="avec" />
 		<text name="horsePower"								text="HP" />
 		<text name="showTrain"								text="Afficher les trains dans la liste des véhicules" />
-		<text name="showCrane"								text="Afficher les grues de train dans la liste des véhicules" />
+		<text name="showCrane"								text="Afficher les grues dans la liste des véhicules" />
 		<text name="showBrand"								text="Afficher la marque dans la liste des véhicules" />
 		<text name="showHorsepower"							text="Afficher la puissance du véhicule" />
 		<text name="showNames"								text="Afficher les noms des joueurs dans la liste des véhicules" />
 		<text name="showFillLevels"							text="Afficher le niveau de remplissage dans la liste des véhicules" />
 		<text name="showPercentages"						text="Afficher le niveau de remplissage en pourcentage" />
 		<text name="showEmpty"								text="Afficher le niveau de remplissage des véhicules vides" />
-		<text name="showHelp"								text="Afficher les raccourcis clavier (y compris Tardis si disponible)" />
+		<text name="showHelp"								text="fficher les raccourcis clavier (y compris Tardis si disponible)" />
 		<text name="bgTrans"								text="Transparence de l'arrière-plan" />
 		<text name="txtSize"								text="Taille du texte" />
 		<text name="showSteerableImplements"				text="Afficher les équipements orientables" />
 		<text name="showImplements"							text="Afficher les équipements attachés dans la liste" />
 		<text name="showImplementsMax"						text="Nombre d'équipements dans la liste" />
-		<text name="saveStatus"								text="Sauvegarder l'état du véhicule" />
+		<text name="saveStatus"								text="Sauvegarder l'état des véhicules" />
 		<text name="showImg"								text="Afficher les images" />
 		<text name="showInfo"								text="Afficher la boîte d'information" />
 		<text name="infoStart"								text="Déplacer la boîte d'information/image verticalement" />
@@ -47,7 +47,7 @@
 		<text name="followme"								text="FM" />
 		<text name="autodrive"								text="AD" />
 		<text name="aive"									text="AIVE" />
-		<text name="helper"									text="Aide" />
+		<text name="helper"									text="Ouvrier" />
 		<text name="cp_course"								text="Course CP" />
 		<text name="cp_courseunknown"						text="Course temporaire" />
 		<text name="ad_destination"							text="Destination AD" />
@@ -75,10 +75,10 @@
 		<text name="showImgMaxImp"							text="Nombre maximal d'images d'équipements" />
 		<text name="showInfoMaxImpl"						text="Nombre maximal d'équipements dans la boîte d'information" />
 		<text name="useTwoColoredList"						text="Utiliser une liste à deux couleurs alternées pour les véhicules" />
-		<text name="isLowered"								text="Abaissement" />
+		<text name="isLowered"								text="Abaissé" />
 		<text name="turnedOnImplement"						text="Équipement activé" />	
 		<text name="useVeExTabOrder"						text="Utiliser l'ordre des véhicules de VehicleExplorer" />
 		<text name="field"									text="Champ" />
-		<text name="operationHours"							text="Heures d'opération" />
+		<text name="operationHours"							text="Heures d'utilisations" />
 	</texts>
 </l10n>
